@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import StatisticList from './StatisticList';
 import StatisticDetail from './StatisticDetail';
 import OtherDetail from './OtherDetail';
+// This is java script file
 
 function App() {
   return (
